@@ -5,11 +5,29 @@
 
 .okDrugs {
  background-color: greenyellow;
+ color: black;
+ padding: 50px;
 }
-
 
 .notOkDrugs {
   background-color: coral;
+  color: black;
+ padding: 50px;
+ }
+
+ .drugs {
+   background-color: gray;
+   color: white;
+   padding: 30px;
+ }
+
+ .drug {
+   background: violet;
+ }
+
+ .drugType {
+  background-color: white;
+
  }
  
 
