@@ -1,9 +1,12 @@
 import React from "react";
 import "./App.css";
 
-// Drugs Challenge - level 1
+// Drugs Challenge - level 4
+
 // INSTRUCTIONS;
-// decompose the app component according to the following structure
+// In the folder src, create 6 different files called: alcohol.js - weed.js - ayahuasca.js - cocaine.js - crack.js - heroin.js
+// Decompose the app component according to the structure below, move each piece of code to their respective file.
+
 // app
 //    alcohol
 //    weed
