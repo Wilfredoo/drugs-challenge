@@ -2,8 +2,17 @@ import React from "react";
 import "./App.css";
 
 // Drugs Challenge - level 1
+
 // INSTRUCTIONS
-// Decompose the app component according to the following structure
+// In the folder src, create 1 folder called drugs
+// Inside drugs folder, create 2 folders called okDrugs and notOkDrugs
+// Inside the okDrugs, create 3 folders called alcohol, weed and ayahuasca
+// Inside the notOkDrugs, create 3 folders called cocaine, crack and heroin
+// Inside the weed folder, create 2 folders called Indica and Sativa
+// Inside the alcohol folder, create 2 folders called Vodka and Beer
+// create the files: alcohol.js - vodka.js - beer.js - weed.js - indica.js - sativa.js - ayahuasca.js - cocaine.js - crack.js - heroin.js. Put them in the respective folders.
+// decompose the app component according to the structure below, move each piece of code to their respective file.
+
 // App
 //    Drugs
 //      OkDrugs
