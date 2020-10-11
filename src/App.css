@@ -1,8 +1,17 @@
 .App {
   text-align: center;
-  background-color: lightgray;
   margin: 50px;
 }
+
+.okDrugs {
+ background-color: greenyellow;
+}
+
+
+.notOkDrugs {
+  background-color: coral;
+ }
+ 
 
 .footer {
   position: fixed;
